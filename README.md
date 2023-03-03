@@ -6,3 +6,4 @@ This project hosted with netlify [Link](https://6400b38cd4068b27aa524e00--weathe
 
 when you open this app it will get your location and show your weather but if you wanna see other cities you can write on input.
 
+You can also use my api key.
