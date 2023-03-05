@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project hosted with netlify [Link]([https://6400b38cd4068b27aa524e00--weatherapp-by-tugcankartal.netlify.app/](https://6401c4f11e8cf802a90f940e--weatherapp-by-tugcankartal.netlify.app/)).
+This project hosted with netlify [Link]("https://6401c4f11e8cf802a90f940e--weatherapp-by-tugcankartal.netlify.app")
 
 ## Main purpose
 
